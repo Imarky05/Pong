@@ -1,29 +1,54 @@
-# Pong Game
+# NYTimes
 
-A basic pong game using HTML5 Canvas. 
+###Software:
+	
 
-## Setup
+- Sublime Text (editing)
+	
 
-##### Install
+- Chrome (testing)
+	
 
-`> npm i`
+- GIT Bash (repo upload)
 
-##### Run
 
-`> npm start`
 
-##### Build
 
-`> npm build`
 
-## Keys
+###Technologies Used
+	
 
-##### Player 1:
-* a: up
-* z: down
-* q: fire a new ball
+- html5, css3
+, jquery, ES6
+- keeping my codes clean, structured, and easy to read
+	
 
-##### Player 2:
-* ▲ : up
-* ▼: down
-* /: fire a new ball
+- Used GIT Bash to push my local repo to Git Hub
+	
+
+- Validated index.html, style.css and reset.css
+
+- Used Webpack in:
+- auto reloading my site on changes
+- compiling all the different .js files into one
+
+
+- Checked my main.js in eslint
+
+- Learned how to use Object Oriented Programming
+
+- Was able to use audio on certain events
+
+
+
+###Stretched/Extra Goals
+	
+
+- None for now but will add in the future
+
+
+
+###Future Goals
+	
+
+- To be able to write classes and to use them properly to build a game or an interactive part of my website
