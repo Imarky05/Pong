@@ -29,11 +29,8 @@
 - Validated index.html, style.css and reset.css
 
 - Used Webpack in:
-- auto reloading my site on changes
-- compiling all the different .js files into one
-
-
-- Checked my main.js in eslint
+	- auto reloading my site on changes
+	- compiling all the different .js files into one
 
 - Learned how to use Object Oriented Programming
 
