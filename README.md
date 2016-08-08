@@ -1,4 +1,4 @@
-# NYTimes
+# Pong
 
 ###Software:
 	
