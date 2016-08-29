@@ -37,12 +37,10 @@ export default class Ball {
    		if(this.x >= this.maxWidth){
    			this.ballReset();
    			player1.score += 1;
-   			console.log(player1.score);
    		}
    		else if (this.x <= 0){
    			this.ballReset();
    			player2.score += 1;
-   			console.log(player2.score);
    		}
    }
    paddleCollision (player1, player2) {
