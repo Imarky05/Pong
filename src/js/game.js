@@ -1,7 +1,7 @@
-import Paddle from './Paddle';
-import Board from './Board';
-import Ball from './Ball';
-import ScoreBoard from './ScoreBoard';
+import Paddle from './paddle';
+import Board from './board';
+import Ball from './ball';
+import ScoreBoard from './scoreBoard';
 import settings from './settings';
 
 export default class Game {

@@ -1,5 +1,5 @@
-import './game.css';
-import Game from './Game';
+import '../game.css';
+import Game from './game';
 
 var game = new Game();
 

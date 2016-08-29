@@ -5,8 +5,7 @@ export default class ScoreBoard {
       this.score = 0;
    }
    draw(ctx, player) {
-      ctx.font = "15px Helvetica";
+      ctx.font = "15px Arial";
       ctx.fillText(player.score, this.x, this.y);
-      // ctx.fillText(this.score, this.x, this.y);
    }
 }

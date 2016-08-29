@@ -6,6 +6,7 @@ const OpenBrowserPlugin = require('open-browser-webpack-plugin');
 
 const PATHS = {
 	src: join(__dirname, 'src'),
+	js_src: join(__dirname, 'src/js'),
 	fonts: join(__dirname, 'fonts'),
 	build: join(__dirname, 'build')
 };
@@ -13,7 +14,7 @@ const PATHS = {
 
 module.exports = {
 	entry: {
-		src: join(PATHS.src, 'index.js')
+		src: join(PATHS.js_src, 'index.js')
 	},
 	resolve: {
 		extensions: ['', '.js']
@@ -31,7 +32,7 @@ module.exports = {
 		}, {
 			test: /\.js$/,
 			loader: 'babel',
-			include: PATHS.src,
+			include: PATHS.js_src,
 			exclude: /node_modules/
 		}, {
 			test: /\.(eot|svg|ttf|woff|woff2)$/,
