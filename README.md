@@ -1,5 +1,7 @@
 # Pong
 
+![alt text](./pong-screenshot.png)
+
 ###Software:
 	
 
