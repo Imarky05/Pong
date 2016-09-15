@@ -1,6 +1,6 @@
 # Pong
 
-![alt text](./pong-screenshot.png)
+![alt text](./pong-screenshot.png "Pong")
 
 ###Software:
 	
