@@ -1,7 +1,7 @@
 # Pong
 
 ![alt text](./pong-screenshot.png "Pong")
-*Site Screenshot*
+####*Site Screenshot*
 
 ###Software:
 	
